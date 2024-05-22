@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9300171c.css",
+    "main.js": "/static/js/main.fa93c738.js",
+    "static/media/about-us.png": "/static/media/about-us.52aee5aad1b9f60cd481.png",
+    "static/media/loginBg.PNG": "/static/media/loginBg.322604b7dc97e064ec37.PNG",
+    "static/media/image_main2.png": "/static/media/image_main2.0a16fd3403158a045200.png",
+    "static/media/logonew4.png": "/static/media/logonew4.278fb4cc3e5c0a5b6f67.png",
+    "static/media/logonew6.png": "/static/media/logonew6.31e2403a6f1821ef0b3e.png",
+    "static/media/logonew5.png": "/static/media/logonew5.7bce2d157e578f62f94f.png",
+    "static/media/focusNext.png": "/static/media/focusNext.8ca26be00d75d5c55b1f.png",
+    "static/media/tick_icon.png": "/static/media/tick_icon.03d7fe15a0f09ac2457c.png",
+    "static/media/Profile_pp.png": "/static/media/Profile_pp.3858262294e8769b34d6.png",
+    "static/media/logonew8.png": "/static/media/logonew8.97acb745b9c3dae5e3a6.png",
+    "static/media/newslider23.jpeg": "/static/media/newslider23.fed1ce79ac06714f0e00.jpeg",
+    "static/media/cameera_icon.png": "/static/media/cameera_icon.e3bf659617d8f87c5dbc.png",
+    "static/media/sent-image122.png": "/static/media/sent-image122.e33d604757884e63abb1.png",
+    "static/media/password-pattern.png": "/static/media/password-pattern.f316d811c40617d29edd.png",
+    "index.html": "/index.html",
+    "static/media/SearchIcon.svg": "/static/media/SearchIcon.440ed87eb56bb96f7dce7b98141bd587.svg",
+    "static/media/HorizontalDots2.svg": "/static/media/HorizontalDots2.2c4f63f18cf5597c840625f2c4ad58c7.svg",
+    "static/media/redBlockIcon.svg": "/static/media/redBlockIcon.5c8def8bcbd0c7f96319e04f7481b982.svg",
+    "static/media/blockIcon.svg": "/static/media/blockIcon.6312c792d36e3935078730b6b8712f46.svg",
+    "static/media/chevronLeft.svg": "/static/media/chevronLeft.13483cdb9c6e824f1933fcb45abf03a8.svg",
+    "main.9300171c.css.map": "/static/css/main.9300171c.css.map",
+    "main.fa93c738.js.map": "/static/js/main.fa93c738.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9300171c.css",
+    "static/js/main.fa93c738.js"
+  ]
+}
